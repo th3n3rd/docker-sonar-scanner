@@ -1,4 +1,4 @@
-FROM openjdk:8u111-jre-alpine
+FROM openjdk:8-jre-alpine
 
 ENV SONAR_SCANNER_VERSION 2.8
 
